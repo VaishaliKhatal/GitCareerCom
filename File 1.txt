@@ -2,5 +2,5 @@ Hello world!
 
 change to push.
 change for diff.
+on test branch pull request check and change on master for conflict.
 
-test branch pull request check and chnage on master for conflige merge.
